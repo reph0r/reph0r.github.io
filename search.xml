@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>首页</title>
+    <url>/2022/10/01/%E9%A6%96%E9%A1%B5/</url>
+    <content><![CDATA[<hr>
+<p>邮箱：<a href="mailto:&#114;&#x65;&#x70;&#104;&#x30;&#114;&#x40;&#102;&#111;&#x78;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#114;&#x65;&#x70;&#104;&#x30;&#114;&#x40;&#102;&#111;&#x78;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a></p>
+<p>掘金：<a href="https://juejin.cn/user/3153817156976791">https://juejin.cn/user/3153817156976791</a></p>
+<hr>
+]]></content>
+      <tags>
+        <tag>首页</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>深信服安全运营-校招-2023</title>
+    <url>/2022/10/27/%E6%B7%B1%E4%BF%A1%E6%9C%8D%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5-%E6%A0%A1%E6%8B%9B-2023/</url>
+    <content><![CDATA[<p>全程大概四十分钟左右：<br>SQL注入漏洞如何探测手工、工具<br>网络拓扑图会画嘛？(没听说过)<br>内网简单问了一下<br>TCP协议<br>深信服waf 、防火墙等等的了解<br>Windows电脑中毒如何应急响应<br>写的工具，具体问什么原理<br>前沿漏洞进行过复现与学习嘛<br>CTF参加过嘛，做过哪些题<br>渗透测试信息收集<br>中间件漏洞了解过嘛<br>在浏览器中输入url后回车后会发生哪些操作<br>sqlmap工具的使用<br>日志分析<br>校园经历<br>深信服了解嘛<br>投递过其他公司嘛，你如何选择入职的公司<br>你有其他问题嘛？(反问)<br>其他的忘了</p>
+]]></content>
+      <categories>
+        <category>面试</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>奇安信渗透测试2023笔试题</title>
     <url>/2022/10/27/%E5%A5%87%E5%AE%89%E4%BF%A1%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%952023%E7%AC%94%E8%AF%95%E9%A2%98/</url>
     <content><![CDATA[<p>奇安信 笔试 渗透测试2023<br>weblogic jboss iis常见漏洞，<br>序列化，<br>ssrf可以利用哪些协议<br> SQL注入分类<br>csrf危害<br>文件包含有哪些函数<br>文件上传之黑名单<br>xss分类 xxe可以使用哪些协议<br>代码执行有哪些函数<br>mongdb默认端口<br>redis端口<br>Java序列化实现那两个类<br>会话固定攻击有哪些<br>log4j漏洞<br>redis未授权访问有哪些利用方式<br>shiro流量特征<br>哪些语言存在反序列化漏洞<br>nmap怎样获取版本(SV)</p>
@@ -462,30 +486,6 @@
       </categories>
       <tags>
         <tag>靶场</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>深信服安全运营-校招-2023</title>
-    <url>/2022/10/27/%E6%B7%B1%E4%BF%A1%E6%9C%8D%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5-%E6%A0%A1%E6%8B%9B-2023/</url>
-    <content><![CDATA[<p>全程大概四十分钟左右：<br>SQL注入漏洞如何探测手工、工具<br>网络拓扑图会画嘛？(没听说过)<br>内网简单问了一下<br>TCP协议<br>深信服waf 、防火墙等等的了解<br>Windows电脑中毒如何应急响应<br>写的工具，具体问什么原理<br>前沿漏洞进行过复现与学习嘛<br>CTF参加过嘛，做过哪些题<br>渗透测试信息收集<br>中间件漏洞了解过嘛<br>在浏览器中输入url后回车后会发生哪些操作<br>sqlmap工具的使用<br>日志分析<br>校园经历<br>深信服了解嘛<br>投递过其他公司嘛，你如何选择入职的公司<br>你有其他问题嘛？(反问)<br>其他的忘了</p>
-]]></content>
-      <categories>
-        <category>面试</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>首页</title>
-    <url>/2022/10/01/%E9%A6%96%E9%A1%B5/</url>
-    <content><![CDATA[<hr>
-<p>邮箱：<a href="mailto:&#x72;&#101;&#x70;&#104;&#48;&#114;&#x40;&#102;&#x6f;&#x78;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#109;">&#x72;&#101;&#x70;&#104;&#48;&#114;&#x40;&#102;&#x6f;&#x78;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#109;</a></p>
-<p>掘金：<a href="https://juejin.cn/user/3153817156976791">https://juejin.cn/user/3153817156976791</a></p>
-<hr>
-]]></content>
-      <tags>
-        <tag>首页</tag>
       </tags>
   </entry>
 </search>
